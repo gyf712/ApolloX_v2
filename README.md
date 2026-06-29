@@ -285,19 +285,3 @@ This generates ranked `.vasp` files and a summary CSV.
 ## License
 
 This project is licensed under the LGPL-3.0 License. See `LICENSE` for details.
-
-
-
-
-
-
-
-
-
-
-
-
-
-请求批准
-
-5.5中
